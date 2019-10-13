@@ -1,0 +1,11 @@
+{
+
+    "name": "EMC-Baritone-Controller",
+    "website": "https://gitlab.com/EMC-Framework/EMC-Discord-RPC",
+    "author": "Bepis",
+    "mineVersion": "13.9.0",
+    "version":1,
+    "main": "me.bepis.emc_baritone_controller.Main",
+    "updateLinkOverride": false
+
+}
