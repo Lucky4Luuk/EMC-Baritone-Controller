@@ -5,7 +5,7 @@
     "author": "Bepis",
     "mineVersion": "13.9.0",
     "version":1,
-    "main": "me.bepis.emc_baritone_controller.Main",
+    "main": "me.bepis.emc_baritone_controller.Main.Main",
     "updateLinkOverride": false
 
 }
